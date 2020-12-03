@@ -1,0 +1,22 @@
+//div[@class="tableWrapper___3utdq"] --- This is the div element contains the currencies table 
+//div[@class="tableWrapper___3utdq"]/table/tbody --- This is the tbodu element contains the row of the currencies
+//div[@class='tableWrapper___3utdq']/table/tbody/tr[1]/td[3]/a/div/div/p/text() --- This is the actual Xpath for the name of thecurrency name
+//div[@class='tableWrapper___3utdq']/table/tbody/tr[1]/td[4]/div/a/text() --- This is the actual Xpath for the Price of the each currency
+//div[@class='tableWrapper___3utdq']/table/tbody/tr[1]/td[5]/span/text() --- This is the actual Xpath for the 24h of the each currency
+//div[@class='tableWrapper___3utdq']/table/tbody/tr[1]/td[6]/div/span/text() --- This is the actual Xpath for the 7day of the each currency
+//div[@class='tableWrapper___3utdq']/table/tbody/tr[1]/td[7]/p/text() --- This is the actual Xpath for the Market cap of the each currency
+//div[@class='tableWrapper___3utdq']/table/tbody/tr[1]/td[8]/div/a/p/text() --- This is the actual Xpath for the volume of the each currency in dollor
+//div[@class='tableWrapper___3utdq']/table/tbody/tr[1]/td[8]/div/p/text() --- This is the actual Xpath for the volume of the each currency in bitcoin
+//div[@class='tableWrapper___3utdq']/table/tbody/tr[1]/td[9]/div/div/p/text() --- This is the actual xpath for the circulating supply of the each currency
+//div[@class='tableWrapper___3utdq']/table/tbody/tr[1]/td[10]/a/img[@class] --- This is the actual Xpath for the graph of the each currency
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+//div[@class='tableWrapper___3utdq']/table/tbody/tr[@class="sc-14kwl6f-0 fletOv"][1] --- This is the actual Xpath for the after 10th Currency
+//div[@class='tableWrapper___3utdq']/table/tbody/tr[@class="sc-14kwl6f-0 fletOv"][1]/td[3]/span[2]/text() --- This is the actual Xpath for the name
+of the Currrencies after the 10th Currrencies
+//div[@class='tableWrapper___3utdq']/table/tbody/tr[@class="sc-14kwl6f-0 fletOv"][1]/td[4]/span/text() --- This is the actual Xpath for the price of the each currency
+//div[@class='tableWrapper___3utdq']/table/tbody/tr[@class="sc-14kwl6f-0 fletOv"][1]/td[5]/span/text() --- This is the actual Xpath for the _24h attribute
+//div[@class='tableWrapper___3utdq']/table/tbody/tr[@class="sc-14kwl6f-0 fletOv"][1]/td[6]/span/text() --- This is the actual Xpath for the _7day
+
+
+
+<div class="sc-8ccaqg-2 jbqscO"><div class="sc-3zxsc5-0 dMzwRf"><ul class="rc-pagination" unselectable="unselectable"><li title="上一页" class="rc-pagination-prev rc-pagination-disabled" aria-disabled="true"><svg xmlns="http://www.w3.org/2000/svg" fill="none" height="14" width="14" viewBox="0 0 24 24" disabled="" class="sc-16r8icm-0 hKnmWV"><path d="M15 6L9 12L15 18" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path></svg></li><li title="1" class="rc-pagination-item rc-pagination-item-1 rc-pagination-item-active" tabindex="0"><a rel="nofollow">1</a></li><li title="2" class="rc-pagination-item rc-pagination-item-2" tabindex="0"><a rel="nofollow">2</a></li><li title="3" class="rc-pagination-item rc-pagination-item-3" tabindex="0"><a rel="nofollow">3</a></li><li title="4" class="rc-pagination-item rc-pagination-item-4" tabindex="0"><a rel="nofollow">4</a></li><li title="5" class="rc-pagination-item rc-pagination-item-5 rc-pagination-item-before-jump-next" tabindex="0"><a rel="nofollow">5</a></li><li title="向后 5 页" tabindex="0" class="rc-pagination-jump-next"><button type="button" aria-label="next page" class="rc-pagination-item-link"></button></li><li title="38" class="rc-pagination-item rc-pagination-item-38" tabindex="0"><a rel="nofollow">38</a></li><li title="下一页" tabindex="0" class="rc-pagination-next" aria-disabled="false"><svg xmlns="http://www.w3.org/2000/svg" fill="none" height="14" width="14" viewBox="0 0 24 24" class="sc-16r8icm-0 hKnmWV"><path d="M9 6L15 12L9 18" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path></svg></li><li class="rc-pagination-options"></li></ul></div></div>
